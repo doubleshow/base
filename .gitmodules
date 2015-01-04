@@ -1,0 +1,6 @@
+[submodule "bigdiff/ed/fcq"]
+	path = bigdiff/ed/fcq
+	url = git@github.com:sikuli/fcq.git
+[submodule "book/craftjs"]
+	path = book/craftjs
+	url = git@github.com:sikuli/craftjs.git
