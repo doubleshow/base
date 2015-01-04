@@ -19,3 +19,6 @@
 [submodule "gradcomm/admission"]
 	path = gradcomm/admission
 	url = git@github.com:CU-CS-Gradcomm/admission.git
+[submodule "naturenet/www"]
+	path = naturenet/www
+	url = https://github.com/naturenet/naturenet-www
