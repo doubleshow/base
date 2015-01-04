@@ -16,3 +16,6 @@
 [submodule "courses/2014fall/CSCI-4830-002-2014.github.io"]
 	path = courses/2014fall/CSCI-4830-002-2014.github.io
 	url = git@github.com:CSCI-4830-002-2014/CSCI-4830-002-2014.github.io.git
+[submodule "gradcomm/admission"]
+	path = gradcomm/admission
+	url = git@github.com:CU-CS-Gradcomm/admission.git
