@@ -4,3 +4,12 @@
 [submodule "book/craftjs"]
 	path = book/craftjs
 	url = git@github.com:sikuli/craftjs.git
+[submodule "courses/2015sp/website"]
+	path = courses/2015sp/website
+	url = git@github.com:ucdd2-sp15/website.git
+[submodule "courses/2015sp/ucdd-htmlgen"]
+	path = courses/2015sp/ucdd-htmlgen
+	url = git@github.com:ucdd2-sp15/ucdd-htmlgen.git
+[submodule "courses/2015sp/people"]
+	path = courses/2015sp/people
+	url = git@github.com:ucdd2-sp15/people.git
