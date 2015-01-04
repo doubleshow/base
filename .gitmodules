@@ -22,3 +22,6 @@
 [submodule "naturenet/www"]
 	path = naturenet/www
 	url = https://github.com/naturenet/naturenet-www
+[submodule "personal/homepage"]
+	path = personal/homepage
+	url = git@github.com:doubleshow/homepage.git
