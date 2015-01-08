@@ -25,3 +25,6 @@
 [submodule "personal/homepage"]
 	path = personal/homepage
 	url = git@github.com:doubleshow/homepage.git
+[submodule "courses/2015sp/ucdd-lodash"]
+	path = courses/2015sp/ucdd-lodash
+	url = git@github.com:ucdd2-sp15/ucdd-lodash.git
