@@ -9,8 +9,9 @@ e.g.,
 
 $ git submodule add git@github.com:ucdd2-sp15/website.git
 
+or 
 
-
+$ git submodule add git@github.com:sikuli/bigdiff-design design
 
 
 # Project folder
